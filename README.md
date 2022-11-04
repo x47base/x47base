@@ -36,14 +36,15 @@ x47#9197
 <a href="https://discord.com/users/655443924948877323"></a>
 </p>
 
+<p align="center">
 - 🔭 I’m currently working on RadonProjectsStorage.
 - 🌱 I’m currently learning C# and Xamarin.
 - 👯 I’m looking to collaborate on hackthebox / root-me.
 <!-- - 🤔 I’m looking for help with ...-->
-- 💬 Ask me about ...-->
 - 📫 How to reach me: https://x47base.xyz/social
 - 😄 Pronouns: He/Him
-
+</p>
+  
 </p>
 
 
