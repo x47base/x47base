@@ -37,20 +37,20 @@ x47#9197
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on RadonProjectsStorage.
+🔭 I’m currently working on RadonProjectsStorage.
 </p>
 <p align="center">
-- 🌱 I’m currently learning C# and Xamarin.
+🌱 I’m currently learning C# and Xamarin.
 </p>
 <p align="center">
-- 👯 I’m looking to collaborate on hackthebox / root-me.
+👯 I’m looking to collaborate on hackthebox / root-me.
 </p>
 <!-- - 🤔 I’m looking for help with ...-->
 <p align="center">
-- 📫 How to reach me: https://x47base.xyz/social
+📫 How to reach me: https://x47base.xyz/social
 </p>
 <p align="center">
-- 😄 Pronouns: He/Him
+😄 Pronouns: He/Him
 </p>
   
 </p>
