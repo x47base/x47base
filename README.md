@@ -27,13 +27,13 @@
 
 <p align="center">
 
-<a href="https://discord.com/users/655443924948877323">
+<a href="https://discord.com/users/1042730904520491028">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="70" width="80">
 </a>
 
 <p align="center">
 x47#9197
-<a href="https://discord.com/users/655443924948877323"></a>
+<a href="https://discord.com/users/1042730904520491028"></a>
 </p>
 
 <p align="center">
