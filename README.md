@@ -19,8 +19,8 @@
 
 <h2 align="center">Known tools</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 🧠 Languages I know, will you find on my portfolio: https://x47base.xyz/
 </p>
 
