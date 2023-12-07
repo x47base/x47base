@@ -14,7 +14,7 @@
 [![x47's GitHub stats](https://github-readme-stats.vercel.app/api?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">Known tools</h2>
+<h2 align="center">Languages</h2>
 <p align="center">
 🧠 Languages I know, will you find on my portfolio: https://x47base.xyz/
 </p>
