@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm x47</h1>
 
 <h3 align="center">A passionate developer from Switzerland</h3>
-<h4 align="center">Currently learning ReactJS & TailwindCSS</h4>
+<h4 align="center">Currently learning NextJS & Tailwind CSS</h4>
 
 <p align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=dbomdev&color=dcc300">
@@ -39,7 +39,7 @@ x47base
 </p>
 
 <p align="center">
-🔭 I’m currently working on onPoint & Spoofify.
+🔭 I’m currently working on onPoint & Spoofify V2.
 </p>
 <p align="center">
 🌱 I’m newly working with ReactJS and TailwindCSS.
