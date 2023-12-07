@@ -42,7 +42,8 @@ x47base
 </p>
 <!-- - 🤔 I’m looking for help with ...-->
 <p align="center">
-📫 How to reach me: [https://x47base.xyz/#socials](https://x47base.xyz/#socials)
+📫 How to reach me: 
+  discord: x47base
 </p>
 <p align="center">
 😄 Pronouns: He/Him
