@@ -12,9 +12,6 @@
 <h3 align="center">Profile Statistics</h3>
 
 [![x47's GitHub stats](https://github-readme-stats.vercel.app/api?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center">Top Languages</h2>
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Known tools</h2>
