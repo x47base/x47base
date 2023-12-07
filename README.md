@@ -15,17 +15,13 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Known tools</h2>
-
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
 🧠 Languages I know, will you find on my portfolio: https://x47base.xyz/
 </p>
 
 
 <h2 align="center">Contact</h2>
-
 <p align="center">
-
 <a href="https://discord.com/users/1042730904520491028">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="70" width="80">
 </a>
