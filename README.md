@@ -1,54 +1,17 @@
-<h1 align="center">Hi 👋, I'm x47</h1>
+# Hello, I'm Samuel! 👋
 
-<h3 align="center">A passionate developer from Switzerland</h3>
-<h4 align="center">Currently learning NextJS & Tailwind CSS</h4>
+I'm a passionate application developer from Switzerland. 🇨🇭
 
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=dbomdev&color=dcc300">
-</p>
+## About Me
 
-<h2 align="center">Stats</h2>
+I have a passion for application development and CTF hacking. I love solving problems and finding creative solutions. In my free time, I enjoy working on open-source projects and constantly improving my skills.
 
-<h3 align="center">Profile Statistics</h3>
+## My Interests
 
-[![x47's GitHub stats](https://github-readme-stats.vercel.app/api?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
+- 🖥️ Application Development
+- 🛡️ CTF Hacking
 
-<h2 align="center">Languages</h2>
-<p align="center">
-🧠 Languages I know, will you find on my portfolio: https://x47base.xyz/
-</p>
+## Contact
 
-
-<h2 align="center">Contact</h2>
-<p align="center">
-<a href="https://discord.com/users/1042730904520491028">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="70" width="80">
-</a>
-
-<p align="center">
-x47base
-<a href="https://discord.com/users/1042730904520491028"></a>
-</p>
-
-<p align="center">
-🔭 I’m currently working on onPoint & Spoofify V2.
-</p>
-<p align="center">
-🌱 I’m newly working with ReactJS and TailwindCSS.
-</p>
-<p align="center">
-👯 I’m looking to collaborate on frontend & backend projects.
-</p>
-<!-- - 🤔 I’m looking for help with ...-->
-<p align="center">
-📫 How to reach me: 
-  discord: x47base
-</p>
-<p align="center">
-😄 Pronouns: He/Him
-</p>
-  
-</p>
-
-
+If you have any questions or would like to collaborate, please don't hesitate to reach out.
+Mail: x47base@proton.me
