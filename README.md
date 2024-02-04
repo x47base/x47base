@@ -11,7 +11,15 @@ I have a passion for application development and CTF hacking. I love solving pro
 - 🖥️ Application Development
 - 🛡️ CTF Hacking
 
+## My Statistics
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 
 If you have any questions or would like to collaborate, please don't hesitate to reach out.
 Mail: x47base@proton.me
+
+
