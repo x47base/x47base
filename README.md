@@ -13,7 +13,7 @@ I have a passion for application development and CTF hacking. I love solving pro
 
 ## My Statistics
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=x47base)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x47base)](https://github.com/anuraghazra/github-readme-stats)
 
